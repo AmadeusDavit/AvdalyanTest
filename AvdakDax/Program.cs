@@ -16,5 +16,10 @@
         {
             Console.WriteLine("gorc");
         }
+
+        private bool boolpriva()
+        {
+            return true;
+        }
     }
 }
