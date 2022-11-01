@@ -8,4 +8,13 @@
             Console.WriteLine("asda");
         }
     }
+
+    class gorc
+    {
+        public int asdasdasd { get; set; }
+        static void asdasdasdasd()
+        {
+            Console.WriteLine("gorc");
+        }
+    }
 }
